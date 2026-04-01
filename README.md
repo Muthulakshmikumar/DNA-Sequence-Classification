@@ -1,6 +1,6 @@
 🧬 DNA Sequence Classification using Machine Learning
 
- 📌 Project Overview
+ 📌 Project Overview:
 This project focuses on classifying DNA sequences into biological categories such as:
 - Bacteria
 - Virus
